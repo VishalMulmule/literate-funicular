@@ -2,3 +2,7 @@
 #This is my 1st shell script to print output
 echo "Hello All, welcome to Velocity AWS/DEVOPS session"
 
+#This script is to read input from the user
+echo "What is your name?"
+read NAME
+echo "Hello $NAME"
